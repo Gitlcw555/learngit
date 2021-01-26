@@ -10,4 +10,5 @@ YOU
 him.
 Create a new branch dev
 TODAY is 2021.1.26.
-Create a new branch called "fea".
+Add a new branch called "feature1".
+
